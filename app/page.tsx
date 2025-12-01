@@ -1,7 +1,7 @@
 export default function NPLPage() {
   return (
     <div
-      style={{ fontFamily: "Arial", background: "#00FF00", padding: "20px" }}
+      style={{ fontFamily: "Arial", backgroundColor: "yellow", padding: "20px" }}
     >
       <div
         style={{
