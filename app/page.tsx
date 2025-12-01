@@ -5,7 +5,7 @@ export default function NPLPage() {
     >
       <div
         style={{
-          background: "white",
+          background: "red",
           padding: "25px",
           borderRadius: "10px",
           maxWidth: "700px",
